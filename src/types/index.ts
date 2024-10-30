@@ -1,4 +1,4 @@
-export type TradeType = 'BUY' | 'SELL' | 'SWAP';
+export type TradeType = 'BUY' | 'SELL';
 
 export interface Swap {
     signature: string;
