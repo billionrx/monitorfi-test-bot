@@ -1,3 +1,4 @@
+let gitignoreContent = `
 # Node.js dependencies
 node_modules/
 
@@ -54,3 +55,4 @@ coverage/
 # Uncomment if you do not want to commit lock files
 # package-lock.json
 # yarn.lock
+`;
